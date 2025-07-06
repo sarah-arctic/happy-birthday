@@ -1,0 +1,22 @@
+* {
+background: #000000;
+}
+
+h1 { 
+color: #ff0000; 
+font-size: 36px;
+font-family: Times New Roman;
+font-weight: bold;
+}
+
+p {  
+color: #ffffff;
+font-family: Helvetica; 
+font-size: 20px; 
+}
+
+i { 
+color: #ffffff;
+font-size: 20px; 
+}
+
